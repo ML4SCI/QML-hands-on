@@ -9,4 +9,4 @@ Hands on notebooks and exercises for Quantum Machine Learning.
 
 When opening the notebooks in colab make sure to clone them to your own drive:
 
-![clone](assets/copynb_e.png)
+![clone](assets/copynb2_e.png)
