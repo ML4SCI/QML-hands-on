@@ -8,6 +8,7 @@ Hands on notebooks and exercises for Quantum Machine Learning.
 3. [QDNN](https://colab.research.google.com/drive/1epdIdu6wZBJgBd-SW9kxoWSVSZBXkT9D?usp=sharing)
 4. [Classical particle images](https://colab.research.google.com/drive/13Pfrs9_rylL1OFu5qJ9xLbWu2jejY5oD?usp=sharing)
 5. [DRC](https://colab.research.google.com/drive/1xKiauBa0TT4CTRnEwkF3pdjW41eUAdcf?usp=sharing)
+6. [DRC: Exercise solutions](https://colab.research.google.com/drive/1b9be2RBM0cSpXgyIFHQYStks9pYeLck_?usp=sharing)
 
 When opening the notebooks in colab make sure to clone them to your own drive:
 
